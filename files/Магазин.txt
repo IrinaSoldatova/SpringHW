@@ -1,0 +1,1 @@
+Note(id=0, title=Магазин, description=Купить продукты, localDateTime=2025-03-04T20:13:01.773183)
